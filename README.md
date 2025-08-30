@@ -1,8 +1,8 @@
 # [fnf-song-converter](https://cabalex.github.io/fnf-song-converter/)
 
-## ⚠️ Archive notice
+## ⚠️ Fork notice
 
-I no longer have the capability to respond to issues for this converter, so I've archived it until further notice. You're welcome to fork it and make your own changes.
+The priginal is from cabalex, supports only LEGACY(or psych engine) fnf json
 
 Scratch on!
 
