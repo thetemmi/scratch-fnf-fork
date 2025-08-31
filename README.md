@@ -1,4 +1,4 @@
-# [fnf-song-converter](https://cabalex.github.io/fnf-song-converter/)
+# [fnf-song-converter](https://thetemmi.github.io/scratch-fnf-fork/)
 
 ## ⚠️ Fork notice
 
