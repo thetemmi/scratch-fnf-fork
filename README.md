@@ -2,7 +2,7 @@
 
 ## ⚠️ Fork notice
 
-The priginal is from cabalex, supports only LEGACY(or psych engine) fnf json
+The original is from cabalex, supports only LEGACY(or psych engine) fnf json
 
 Scratch on!
 
